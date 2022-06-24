@@ -1,0 +1,49 @@
+
+.logo-disney{
+    width: 25%;
+    height: auto;
+    margin: auto;
+}
+
+html{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.subtitulo-2{
+    color: rgba(187,83,151,255);
+    text-align: center;
+    font-family: 'Lucida Sans Unicode';
+    letter-spacing: 10px;
+}
+
+.imagen-derecha{
+    float: right;
+    width: 26%;
+    margin: 5px;
+}
+
+.imagen-izquierda{
+    float: left;
+    width: 26%;
+    margin: 5px;
+}
+
+.imagen-derecha-2{
+    float: right;
+    width: 26%;
+    margin: 5px;
+}
+
+p{
+    color: rgba(103,154,211,255);
+    font-family: 'Lucida Grande';
+}
+
+h2{
+    color: rgba(187,83,151,255);
+    letter-spacing: 8px;
+}
+
+.mickey-minnie{
+    width: 100%;
+}
